@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shikhar023
+- 👋 Hi, I’m @Shikhar-Verma
 - 👀 I’m interested in Web Development.
 - 🌱 I’m currently learning React.
 - 💞️ I’m looking to collaborate on Frontend Projects.
